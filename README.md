@@ -15,7 +15,6 @@ Offres d'emploi python pour le marché français
 * [DevOps M2M H/F](https://remixjobs.com/emploi/Reseau/DevOps-M2M-H-F/33850 "DevOps M2M H/F")
 * [Stage Développeur Back -End H/F](https://remixjobs.com/emploi/Developpement/Stage-Developpeur-Back-End-H-F/33338 "Stage Développeur Back -End H/F")
 * [Stage Développement Web sur un site d'oeuvres d'Art](https://remixjobs.com/emploi/Developpement/Stage-Developpement-Web-sur-un-site-d-oeuvres-d-Art/33077 "Stage Développement Web sur un site d'oeuvres d'Art")
-* [Stage Développeur Full Stack H/F](https://remixjobs.com/emploi/Developpement/Stage-Developpeur-Full-Stack-H-F/33339 "Stage Développeur Full Stack H/F")
 * [Développeur web full-stack (Python), futur lead H/F](https://remixjobs.com/emploi/Developpement/Developpeur-web-full-stack-Python-futur-lead-H-F/32498 "Développeur web full-stack (Python), futur lead H/F")
 * [Backend Engineer H/F](https://remixjobs.com/emploi/Developpement/Backend-Engineer-H-F/32195 "Backend Engineer H/F")
 * [Ingénieur en Développement Logiciel Junior H/F](https://remixjobs.com/emploi/Developpement/Ingenieur-en-Developpement-Logiciel-Junior-H-F/29661 "Ingénieur en Développement Logiciel Junior H/F")
