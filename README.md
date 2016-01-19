@@ -2,6 +2,8 @@
 
 Offres d'emploi python pour le marché français
 
+* [Développeur Python H/F en CDI à Paris 35000-44000](https://remixjobs.com/emploi/Developpement/Developpeur-Python-H-F/34152 "Développeur Python H/F en CDI à Paris 35000-44000")
+* [Stage developpeur web/réseau](http://fr.lolix.org/search/offre/offre.php?id=20965 "Stage developpeur web/réseau")
 * [Administrateur système linux/window](http://fr.lolix.org/search/offre/offre.php?id=21013 "Administrateur système linux/window")
 * [Développeur(se) php/support client](http://fr.lolix.org/search/offre/offre.php?id=20926 "Développeur(se) php/support client")
 * [Ingénieur système linux et réseau](http://fr.lolix.org/search/offre/offre.php?id=21012 "Ingénieur système linux et réseau")
