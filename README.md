@@ -8,7 +8,6 @@ Offres d'emploi python pour le marché français
 * [Développeur(se) php/support client](http://fr.lolix.org/search/offre/offre.php?id=20926 "Développeur(se) php/support client")
 * [Ingénieur système linux et réseau](http://fr.lolix.org/search/offre/offre.php?id=21012 "Ingénieur système linux et réseau")
 * [Ingénieur sécurité & réseau senior](http://fr.lolix.org/search/offre/offre.php?id=20958 "Ingénieur sécurité & réseau senior")
-* [Ingénieur d’exploitation linux/free](http://fr.lolix.org/search/offre/offre.php?id=21010 "Ingénieur d’exploitation linux/free")
 * [DevOps Junior Cloud AWS H/F en CDI à Levallois-Perret](https://remixjobs.com/emploi/Reseau/DevOps-Junior-Cloud-AWS-H-F/34121 "DevOps Junior Cloud AWS H/F en CDI à Levallois-Perret")
 * [Développeur Python/Django full stack (H/F) à Nantes](https://remixjobs.com/emploi/Developpement/Developpeur-Python-Django-full-stack-H-F-a-Nantes/30992 "Développeur Python/Django full stack (H/F) à Nantes")
 * [Développeur Back-end confirmé (Ruby, PHP, Python…) H/F](https://remixjobs.com/emploi/Developpement/Developpeur-Back-end-confirme-Ruby-PHP-Python-H-F/33499 "Développeur Back-end confirmé (Ruby, PHP, Python…) H/F")
